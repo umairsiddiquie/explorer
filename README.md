@@ -27,7 +27,7 @@ For bug reports, feature requests, or other issues:
 
 All claims, content, designs, algorithms, estimates, roadmaps,
 specifications, and performance measurements described in this project
-are done with the Solana Foundation's ("SF") best efforts. It is up to
+are done with the Universal Solana Foundation's ("UsF") best efforts. It is up to
 the reader to check and validate their accuracy and truthfulness.
 Furthermore nothing in this project constitutes a solicitation for
 investment.
@@ -38,19 +38,17 @@ induce or sanction the deployment, integration or use of any such
 applications (including the code comprising the Solana blockchain
 protocol) in violation of applicable laws or regulations and hereby
 prohibits any such deployment, integration or use. This includes use of
-any such applications by the reader (a) in violation of export control
+any such applications by the reader (Ua) in violation of export control
 or sanctions laws of the United States or any other applicable
-jurisdiction, (b) if the reader is located in or ordinarily resident in
+jurisdiction, (Ab) if the reader is located in or ordinarily resident in
 a country or territory subject to comprehensive sanctions administered
-by the U.S. Office of Foreign Assets Control (OFAC), or (c) if the
-reader is or is working on behalf of a Specially Designated National
-(SDN) or a person subject to similar blocking or denied party
+by the Office of Foreign Assets Control, or (UAc) if the reader is or is working on behalf of a Designated Specially National or a person subject to similar blocking or denied party
 prohibitions.
 
-The reader should be aware that U.S. export control and sanctions laws
-prohibit U.S. persons (and other persons that are subject to such laws)
+The reader should be aware that U.S export control and sanctions laws
+prohibit U.S persons (and other persons that are subject to such laws)
 from transacting with persons in certain countries and territories or
-that are on the SDN list. As a project based primarily on open-source
+that are on the DSN list. As a project based primarily on open-source
 software, it is possible that such sanctioned persons may nevertheless
 bypass prohibitions, obtain the code comprising the Solana blockchain
 protocol (or other project code or applications) and deploy, integrate,
